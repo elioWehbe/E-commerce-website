@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba10f63b-0533-43d8-ad99-b4b96e3672fb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CoffeeWebsite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="addCard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addCard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoffeeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mvc/CoffeeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoffeeModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mvc/CoffeeModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="117" column="5" lean-forward="true" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shopp</find>
+      <find>values</find>
+      <find>id</find>
+      <find>&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;</find>
+      <find>coffeeId</find>
+      <find>co</find>
+      <find>7</find>
+      <find>side</find>
+      <find>template</find>
+      <find>?&gt;</find>
+      <find>pro</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/Management.php" />
+        <option value="$PROJECT_DIR$/Model/CoffeeModel.php" />
+        <option value="$PROJECT_DIR$/Controller/CoffeeController.php" />
+        <option value="$PROJECT_DIR$/Stylesheet.css" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/Template.php" />
+        <option value="$PROJECT_DIR$/Styles.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa932.32810/Stylesheet.css" />
+        <option value="$PROJECT_DIR$/../Start/main.css" />
+        <option value="$PROJECT_DIR$/mvc/controller.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/mvc/model.php" />
+        <option value="$PROJECT_DIR$/controller.php" />
+        <option value="$PROJECT_DIR$/model.php" />
+        <option value="$PROJECT_DIR$/test/controller.php" />
+        <option value="$PROJECT_DIR$/mvc/coffee.php" />
+        <option value="$PROJECT_DIR$/management/CoffeeOverview.php" />
+        <option value="$PROJECT_DIR$/management/csv.php" />
+        <option value="$PROJECT_DIR$/login/logout.php" />
+        <option value="$PROJECT_DIR$/management/CoffeeAdd.php" />
+        <option value="$PROJECT_DIR$/CoffeeOverview.php" />
+        <option value="$PROJECT_DIR$/mvc/entite.php" />
+        <option value="$PROJECT_DIR$/uploadImage.php" />
+        <option value="$PROJECT_DIR$/login/condition.php" />
+        <option value="$PROJECT_DIR$/login/reset.php" />
+        <option value="$PROJECT_DIR$/login/design.php" />
+        <option value="$PROJECT_DIR$/login/loginDesign.php" />
+        <option value="$PROJECT_DIR$/cart/cart.php" />
+        <option value="$PROJECT_DIR$/cart/cartAction.php" />
+        <option value="$PROJECT_DIR$/cart/productList.php" />
+        <option value="$PROJECT_DIR$/cart/productListing.php" />
+        <option value="$PROJECT_DIR$/cart/addtocard.php" />
+        <option value="$PROJECT_DIR$/cart/addCard.php" />
+        <option value="$PROJECT_DIR$/userEntite.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.15147/view_users.php" />
+        <option value="$PROJECT_DIR$/login/errors.php" />
+        <option value="$PROJECT_DIR$/login/dom.php" />
+        <option value="$PROJECT_DIR$/CoffeeAdd.php" />
+        <option value="$PROJECT_DIR$/mvc/CoffeeModel.php" />
+        <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/createAdmin.php" />
+        <option value="$PROJECT_DIR$/addDeleteUser.php" />
+        <option value="$PROJECT_DIR$/login/login.php" />
+        <option value="$PROJECT_DIR$/coffee.php" />
+        <option value="$PROJECT_DIR$/Style/stylesheet.css" />
+        <option value="$PROJECT_DIR$/addCard.php" />
+        <option value="$PROJECT_DIR$/template.php" />
+        <option value="$PROJECT_DIR$/login/signup.php" />
+        <option value="$PROJECT_DIR$/csv.php" />
+        <option value="$PROJECT_DIR$/mvc/CoffeeController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1345" />
+    <option name="width" value="585" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/wamp64/www/CoffeeWebsite/login/dom.php&#10;update&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yourphone" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\CoffeeWebsite\login" />
+      <recent name="C:\wamp64\www\CoffeeWebsite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba10f63b-0533-43d8-ad99-b4b96e3672fb" name="Default" comment="" />
+      <created>1520512944989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520512944989</updated>
+      <workItem from="1520512946326" duration="1577000" />
+      <workItem from="1520521559038" duration="591000" />
+      <workItem from="1522227100613" duration="7299000" />
+      <workItem from="1522507593087" duration="28000" />
+      <workItem from="1522651890610" duration="9202000" />
+      <workItem from="1522747399061" duration="209000" />
+      <workItem from="1522771963127" duration="7000" />
+      <workItem from="1522824460082" duration="10294000" />
+      <workItem from="1522865086389" duration="2558000" />
+      <workItem from="1522938144034" duration="54000" />
+      <workItem from="1524139451425" duration="1237000" />
+      <workItem from="1524203884286" duration="5005000" />
+      <workItem from="1524211720155" duration="244000" />
+      <workItem from="1524381663692" duration="5390000" />
+      <workItem from="1524642301273" duration="5045000" />
+      <workItem from="1524648134361" duration="2546000" />
+      <workItem from="1525796387858" duration="1170000" />
+      <workItem from="1525848053382" duration="34000" />
+      <workItem from="1525855936644" duration="2464000" />
+      <workItem from="1525878848421" duration="146000" />
+      <workItem from="1525879301018" duration="58000" />
+      <workItem from="1525879361223" duration="2373000" />
+      <workItem from="1531820864668" duration="30000" />
+      <workItem from="1531820896894" duration="20040000" />
+      <workItem from="1531973017429" duration="132000" />
+      <workItem from="1531985315982" duration="1278000" />
+      <workItem from="1533538418742" duration="1054000" />
+      <workItem from="1533540037079" duration="9656000" />
+      <workItem from="1533575123626" duration="10058000" />
+      <workItem from="1533645483481" duration="14734000" />
+      <workItem from="1533710385903" duration="9499000" />
+      <workItem from="1533825901546" duration="9534000" />
+      <workItem from="1533902654513" duration="3011000" />
+      <workItem from="1533968394761" duration="2356000" />
+      <workItem from="1533971832838" duration="5496000" />
+      <workItem from="1534007897428" duration="12978000" />
+      <workItem from="1534058006435" duration="30663000" />
+      <workItem from="1534574112202" duration="7017000" />
+      <workItem from="1534751895885" duration="6687000" />
+      <workItem from="1534833823414" duration="15448000" />
+      <workItem from="1534946609077" duration="920000" />
+      <workItem from="1534952965240" duration="3104000" />
+      <workItem from="1535033609001" duration="3976000" />
+      <workItem from="1535047358023" duration="601000" />
+      <workItem from="1535265388620" duration="4705000" />
+      <workItem from="1535350451375" duration="17869000" />
+      <workItem from="1535438788817" duration="12887000" />
+      <workItem from="1535486347380" duration="321000" />
+      <workItem from="1535522407748" duration="7100000" />
+      <workItem from="1535558609293" duration="9253000" />
+      <workItem from="1535611512823" duration="3744000" />
+      <workItem from="1535697713126" duration="58656000" />
+      <workItem from="1535867565462" duration="32366000" />
+      <workItem from="1535914872937" duration="195000" />
+      <workItem from="1535915104443" duration="6308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="379207000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.82019365" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32695138" />
+      <window_info anchor="right" id="Database" order="0" weight="0.327748" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3298969" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32918397" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Model/CoffeeModel.php</url>
+          <line>119</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/condition.php" />
+    <entry file="file://$PROJECT_DIR$/mvc/CoffeeModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoffeeOverview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/design.php" />
+    <entry file="file://$PROJECT_DIR$/login/loginDesign.php" />
+    <entry file="file://$PROJECT_DIR$/cart/cart.php" />
+    <entry file="file://$PROJECT_DIR$/cart/cartAction.php" />
+    <entry file="file://$PROJECT_DIR$/cart/productList.php" />
+    <entry file="file://$PROJECT_DIR$/cart/productListing.php" />
+    <entry file="file://$PROJECT_DIR$/cart/addtocard.php" />
+    <entry file="file://$PROJECT_DIR$/cart/addCard.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8960.33755/index.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12652.16028/model.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12652.15964/entite.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12652.15857/controller.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12652.6461/controller.php" />
+    <entry file="file://$PROJECT_DIR$/coffedb.sql" />
+    <entry file="file://$PROJECT_DIR$/userEntite.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.35287/view_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.35151/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.35020/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.19289/view_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.38331/view_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.31211/view_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12984.15147/view_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/error.php" />
+    <entry file="file://$PROJECT_DIR$/login/condition.php" />
+    <entry file="file://$PROJECT_DIR$/login/errors.php" />
+    <entry file="file://$PROJECT_DIR$/addDeleteUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Style/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="199" column="1" lean-forward="true" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/logout.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploadImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="72" selection-start-line="107" selection-start-column="72" selection-end-line="107" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoffeeOverview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoffeeAdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coffee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvc/entite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvc/CoffeeModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="117" column="5" lean-forward="true" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvc/CoffeeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addCard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
